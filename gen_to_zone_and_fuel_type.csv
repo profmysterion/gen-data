@@ -1,0 +1,180 @@
+Plant,Zone,Fuel
+ABKENORA,Northwest,Water
+ADELAIDE,Bruce,Wind
+AGUASABON,Northwest,Water
+ALEXANDER,Northwest,Water
+AMARANTH,Southwest,Wind
+AMHERST ISLAND,East,Wind
+APIROQUOIS,Northeast,Water
+ARMOW,Southwest,Wind
+ARNPRIOR,East,Water
+ATIKOKAN-G1,Northwest,Bio Fuel
+AUBREYFALLS,Northeast,Water
+BARRETT,East,Water
+BECK1,Niagara,Water
+BECK2,Niagara,Water
+BECK2 PGS,Niagara,Water
+BELLE RIVER,West,Wind
+BLAKE,Southwest,Wind
+BORNISH,Southwest,Wind
+BOW LAKE,Northeast,Wind
+BOW LAKE 2,Northeast,Wind
+BRIGHTON BEACH,West,Gas
+BRUCEA-G1,Bruce,Uranium
+BRUCEA-G2,Bruce,Uranium
+BRUCEA-G3,Bruce,Uranium
+BRUCEA-G4,Bruce,Uranium
+BRUCEB-G5,Bruce,Uranium
+BRUCEB-G6,Bruce,Uranium
+BRUCEB-G7,Bruce,Uranium
+BRUCEB-G8,Bruce,Uranium
+CALSTOCKGS,Northeast,Bio Fuel
+CAMERONFALLS,Northwest,Water
+CANYON,Northeast,Water
+CARDINAL,East,Gas
+CARIBOUFALLS,Northwest,Water
+CARMICHAEL,Northeast,Water
+CEDAR POINT 2,Bruce,Wind
+CHATSFALLS,East,Water
+CHENAUX,East,Water
+CLERGUE,Northeast,Water
+COMBER,West,Wind
+DA WATSON,Northeast,Water
+DARLINGTON-G1,Toronto,Uranium
+DARLINGTON-G2,Toronto,Uranium
+DARLINGTON-G3,Toronto,Uranium
+DARLINGTON-G4,Toronto,Uranium
+DECEWFALLS,Niagara,Water
+DECEWND1,Niagara,Water
+DESJOACHIMS,Essa,Water
+DESTEC,East,Gas
+DILLON,West,Wind
+DOWCHEMICAL,West,Steam
+DPNTMTLND,East,Gas
+EARFALLS,Northwest,Water
+EAST LAKE,West,Wind
+EAST WINDSOR-G1,West,Gas
+EAST WINDSOR-G2,West,Gas
+ERIEAU,West,Wind
+FORTFRANCSWC,Northwest,Water
+GARTSHORE,Northeast,Water
+GOSFIELDWGS,West,Wind
+GOSHEN,Southwest,Wind
+GOULAIS,Northwest,Wind
+GRAND VALLEY 3,Southwest,Wind
+GRANDSF,Southwest,Steam
+GRANDWF,Southwest,Wind
+GREENFIELD ENERGY CENTRE-G1,West,Gas
+GREENFIELD ENERGY CENTRE-G2,West,Gas
+GREENFIELD ENERGY CENTRE-G3,West,Gas
+GREENFIELD ENERGY CENTRE-G4,West,Steam
+GREENFIELD SOUTH-G1,West,Gas
+GREENFIELD SOUTH-G2,West,Steam
+GREENWICH,Northwest,Wind
+GTAA-G1,Toronto,Gas
+GTAA-G2,Toronto,Gas
+GTAA-G3,Toronto,Steam
+HALTONHILLS-LT_G1,Southwest,Gas
+HALTONHILLS-LT_G2,Southwest,Gas
+HALTONHILLS-LT_G3,Southwest,Steam
+HARMON,Northeast,Water
+HARMON 2,Northeast,Water
+HARRIS,Northeast,Water
+HENVEY NORTH,Essa,Wind
+HENVEY SOUTH,Essa,Wind
+HOLDEN,Northeast,Water
+HOLINGSWTH,Northeast,Water
+JERICHO,Southwest,Wind
+K2WIND,Bruce,Wind
+KAKABEKA,Northwest,Water
+KAPGS,Northeast,Gas
+KINGSBRIDGE,Southwest,Wind
+KINGSTONSF,East,Solar
+KIPLING,Northeast,Water
+KIPLING 2,Northeast,Water
+LAKESUPERIOR,Northeast,Gas
+LANDON,West,Wind
+LENNOX-G1,East,Oil
+LENNOX-G2,East,Oil
+LENNOX-G3,East,Oil
+LENNOX-G4,East,Oil
+LITTLELONG,Northeast,Water
+LITTLELONG 2,Northeast,Water
+LONGSAULTE,Northeast,Water
+LOWER WHITE RIVER,West,Water
+LOWERNOTCH,East,Water
+MACKAYGS,East,Water
+MANITOUFALLS,East,Water
+MCLEANSMTNWF-LT_AG_T1,East,Wind
+MISSION,Northeast,Water
+MTNCHUTE,Northeast,Water
+NAGAGAMI,Northeast,Water
+NANTICOKE SOLAR,Southwest,Solar
+NAPANEE-G1,East,Gas
+NAPANEE-G2,East,Gas
+NIPIGONGS,Northeast,Gas
+NORTH KENT,West,Wind
+NORTHBAYGS,Northeast,Gas
+NORTHLAND POWER SOLAR FACILITIES,Northeast,Solar
+NPCOCHRANE,Northeast,Gas
+NPIROQFALLS,Northeast,Gas
+NPKIRKLAND-G1-G5,Northeast,Gas
+NPKIRKLAND-G6,Northeast,Gas
+OTTERRAPIDS,Northeast,Water
+PAROCHES,West,Wind
+PETER SUTHERLAND SR,Northeast,Water
+PICKERINGA-G1,Toronto,Uranium
+PICKERINGA-G4,Toronto,Uranium
+PICKERINGB-G5,Toronto,Uranium
+PICKERINGB-G6,Toronto,Uranium
+PICKERINGB-G7,Toronto,Uranium
+PICKERINGB-G8,Toronto,Uranium
+PINEPORTAGE,Northwest,Water
+PORT BURWELL,West,Wind
+PORTALMA-T1,West,Wind
+PORTALMA-T3,West,Wind
+PORTLANDS-G1,Toronto,Gas
+PORTLANDS-G2,Toronto,Gas
+PORTLANDS-G3,Toronto,Steam
+PRINCEFARM,Northeast,Wind
+RAILBEDWF-LT_AG_SR,West,Wind
+RAYNER,Northeast,Water
+REDROCK,Northeast,Water
+RIPLEY SOUTH,Bruce,Wind
+SANDUSK-LT_AG_T1,Southwest,Wind
+SAUNDERS,East,Water
+SHANNON,Southwest,Wind
+SILVERFALLS,Northwest,Water
+SITHE GOREWAY-G11,Toronto,Gas
+SITHE GOREWAY-G12,Toronto,Gas
+SITHE GOREWAY-G13,Toronto,Gas
+SITHE GOREWAY-G15,Toronto,Steam
+SMOKY 2,Northeast,Water
+SOUTHGATE SF,Southwest,Solar
+SPENCE,West,Wind
+STCLAIRCGS,West,Gas
+STEEPHILL,Northeast,Water
+STEWARTVLE,East,Water
+STONE MILLS SF,East,Solar
+SUMMERHAVEN,Southwest,Wind
+TADOUGLAS,Toronto,Gas
+TAOHSC,Ottawa,Gas
+TASARNIA,West,Steam
+TAWINDSOR,West,Gas
+TBAYBOWATER CTS,Northwest,Bio Fuel
+THOROLDCGS,Niagara,Gas
+THUNDERBAY-G3,Northwest,Bio Fuel
+TUNISGS,Northeast,Gas
+UMBATAFALLS,Northwest,Water
+UNDERWOOD,Bruce,Wind
+UPPER WHITE RIVER,Northwest,Water
+WELLS,Northeast,Water
+WEST LINCOLN NRWF,Southwest,Wind
+WESTWINDSOR,West,Gas
+WHITBYCGS,Toronto,Gas
+WHITEDOG,Northwest,Water
+WINDSOR AIRPORT SF,West,Solar
+WOLFE ISLAND,East,Wind
+YORKCGS-G1,Toronto,Gas
+YORKCGS-G2,Toronto,Gas
+ZURICH,Southwest,Wind
